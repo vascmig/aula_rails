@@ -8,4 +8,7 @@ Codeclimate: [![Maintainability](https://api.codeclimate.com/v1/badges/3e817f68d
 
 Coveralls: [![Coverage Status](https://coveralls.io/repos/github/vascmig/aula_rails/badge.svg?branch=master)](https://coveralls.io/github/vascmig/aula_rails?branch=master)
 
-Heroku: https://aula-rails.herokuapp.com/
+
+[Aplicação hospedada no Heroku ](https://aula-rails.herokuapp.com/)
+
+[Anotações da aula ](https://gist.github.com/vascmig/1bda07c3cc2f5d61b4f0698ad6cbee4e)
